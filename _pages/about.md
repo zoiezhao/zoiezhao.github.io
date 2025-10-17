@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. zoiezhao39@gmail.com
 profile:
   align: right
   image: profile.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Mudd 3112</p>
     <p>2233 Tech Dr</p>
@@ -34,6 +34,10 @@ School: kexinzhao2029.1@u.northwestern.edu
 Click here for my [Google Scholar](https://scholar.google.com/citations?user=V8AJ-EMAAAAJ&hl=en)
 
 Website in progress...
+
+
+
+-------------------------------------------------------------------------------------------------------------
 
 
 
