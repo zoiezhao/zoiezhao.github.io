@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. zoiezhao39@gmail.com
+subtitle: <a href='#'>Northwestern University</a>. QRG Lab.
 
 profile:
   align: right
@@ -28,9 +28,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Persoanl: zoiezhao39@gmail.com
+Second Year CS PhD Student
 
-School: kexinzhao2029.1@u.northwestern.edu
+Persoanl Email: zoiezhao39@gmail.com
+
+School Email: kexinzhao2029.1@u.northwestern.edu
+
+PhD Advisor: Kenneth Forbus
 
 Click here for my [Google Scholar](https://scholar.google.com/citations?user=V8AJ-EMAAAAJ&hl=en)
 
