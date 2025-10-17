@@ -27,9 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Email1: zoiezhao39 @ gmail.com
+Persoanl: zoiezhao39@gmail.com
 
-Email2: kexinzhao2029.1 @ u.northwestern.edu
+School: kexinzhao2029.1@u.northwestern.edu
+
+[Google Scholar](https://scholar.google.com/citations?user=V8AJ-EMAAAAJ&hl=en)
+
+Website in progress...
+
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
