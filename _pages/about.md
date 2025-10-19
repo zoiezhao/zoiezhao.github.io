@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpeg
   image_circular: true # crops the image to make it circular
-  image_style: "margin-top: -30px;"
+  image_style: "margin-top: -100px;"
   more_info: >
     <p>Mudd 3112</p>
     <p>2233 Tech Dr</p>
