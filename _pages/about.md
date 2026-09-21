@@ -26,6 +26,8 @@ latest_posts:
 
 Second-year PhD student in Computer Science at Northwestern University.
 
+My research focuses on symbolic artificial intelligence, particularly knowledge representation and analogical reasoning for natural language understanding. I also study how large language models can complement symbolic methods, with applications in story generation, word sense disambiguation, and commonsense reasoning.
+
 **PhD advisor:** Kenneth Forbus
 
 **Personal email:** [zoiezhao39@gmail.com](mailto:zoiezhao39@gmail.com)
